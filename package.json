@@ -1,7 +1,7 @@
 {
-  "name": "skeleton-lib",
-  "version": "0.1.0",
-  "description": "Skeleton-lib",
+  "name": "@mousetool/class",
+  "version": "1.0.0",
+  "description": "Easier and uncluttered Object-Oriented Programming in Lua",
   "main": "dummy.js",
   "onelua": {
     "main": "init.lua"
