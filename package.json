@@ -1,6 +1,6 @@
 {
   "name": "@mousetool/class",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easier and uncluttered Object-Oriented Programming in Lua",
   "main": "dummy.js",
   "onelua": {
